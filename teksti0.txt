@@ -1,1 +1,3 @@
 tekstiä notepadilla
+
+lisää tekstiä uuteen committiin
